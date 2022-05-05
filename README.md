@@ -1,8 +1,8 @@
-# Programowanie-aplikacji-PRA---zad.-2
+# PJATK / Programowanie aplikacji PRA zad.2
 
 Właściwości komponentów ( 2 p.)
 
-Zad. 1. GUICOMP (max. punktów 4)
+<b>Zad. 1. GUICOMP (max. punktów 4)</b>
 
 Rozmieścić w oknie  pięć etykiet w układzie BorderLayout.
 Etykiety powinny mieć:
@@ -13,7 +13,7 @@ d) podpowiedzi (tooltip)
 c) różne ramki  
 
 
-Zad. 2. BUTT1 (max. punktów 4)
+<b>Zad. 2. BUTT1 (max. punktów 4)</b>
 
 Przycisk
 
